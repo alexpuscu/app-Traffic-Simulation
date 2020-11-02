@@ -1,0 +1,5 @@
+MARGIN = 0.1
+ROAD_WIDTH = 20
+CAR_RADIUS = 0.25 * ROAD_WIDTH
+
+#dimensiunile 
